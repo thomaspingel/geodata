@@ -1,11 +1,11 @@
 state,fips,code,region,division,election16
-Alabama,1,AL,South,East South Central,gop
-Alaska,2,AK,West,Pacific,gop
-Arizona,4,AZ,West,Mountain,gop
-Arkansas,5,AR,South,West South Central,gop
-California,6,CA,West,Pacific,dem
-Colorado,8,CO,West,Mountain,dem
-Connecticut,9,CT,Northeast,New England,dem
+Alabama,01,AL,South,East South Central,gop
+Alaska,02,AK,West,Pacific,gop
+Arizona,04,AZ,West,Mountain,gop
+Arkansas,05,AR,South,West South Central,gop
+California,06,CA,West,Pacific,dem
+Colorado,08,CO,West,Mountain,dem
+Connecticut,09,CT,Northeast,New England,dem
 Delaware,10,DE,South,South Atlantic,dem
 District of Columbia,11,DC,South,South Atlantic,dem
 Florida,12,FL,South,South Atlantic,gop
