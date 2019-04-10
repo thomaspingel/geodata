@@ -1,0 +1,52 @@
+state,fips,code,region,division,election16
+Alabama,1,AL,South,East South Central,gop
+Alaska,2,AK,West,Pacific,gop
+Arizona,4,AZ,West,Mountain,gop
+Arkansas,5,AR,South,West South Central,gop
+California,6,CA,West,Pacific,dem
+Colorado,8,CO,West,Mountain,dem
+Connecticut,9,CT,Northeast,New England,dem
+Delaware,10,DE,South,South Atlantic,dem
+District of Columbia,11,DC,South,South Atlantic,dem
+Florida,12,FL,South,South Atlantic,gop
+Georgia,13,GA,South,South Atlantic,gop
+Hawaii,15,HI,West,Pacific,dem
+Idaho,16,ID,West,Mountain,gop
+Illinois,17,IL,Midwest,East North Central,dem
+Indiana,18,IN,Midwest,East North Central,gop
+Iowa,19,IA,Midwest,West North Central,gop
+Kansas,20,KS,Midwest,West North Central,gop
+Kentucky,21,KY,South,East South Central,gop
+Louisiana,22,LA,South,West South Central,gop
+Maine,23,ME,Northeast,New England,dem
+Maryland,24,MD,South,South Atlantic,dem
+Massachusetts,25,MA,Northeast,New England,dem
+Michigan,26,MI,Midwest,East North Central,gop
+Minnesota,27,MN,Midwest,West North Central,dem
+Mississippi,28,MS,South,East South Central,gop
+Missouri,29,MO,Midwest,West North Central,gop
+Montana,30,MT,West,Mountain,gop
+Nebraska,31,NE,Midwest,West North Central,gop
+Nevada,32,NV,West,Mountain,dem
+New Hampshire,33,NH,Northeast,New England,dem
+New Jersey,34,NJ,Northeast,Middle Atlantic,dem
+New Mexico,35,NM,West,Mountain,dem
+New York,36,NY,Northeast,Middle Atlantic,dem
+North Carolina,37,NC,South,South Atlantic,gop
+North Dakota,38,ND,Midwest,West North Central,gop
+Ohio,39,OH,Midwest,East North Central,gop
+Oklahoma,40,OK,South,West South Central,gop
+Oregon,41,OR,West,Pacific,dem
+Pennsylvania,42,PA,Northeast,Middle Atlantic,gop
+Rhode Island,44,RI,Northeast,New England,dem
+South Carolina,45,SC,South,South Atlantic,gop
+South Dakota,46,SD,Midwest,West North Central,gop
+Tennessee,47,TN,South,East South Central,gop
+Texas,48,TX,South,West South Central,gop
+Utah,49,UT,West,Mountain,gop
+Vermont,50,VT,Northeast,New England,dem
+Virginia,51,VA,South,South Atlantic,dem
+Washington,53,WA,West,Pacific,dem
+West Virginia,54,WV,South,South Atlantic,dem
+Wisconsin,55,WI,Midwest,East North Central,dem
+Wyoming,56,WY,West,Mountain,dem
