@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2284" } },
+"features": [
+{ "type": "Feature", "properties": { "UNIQUEID": 1001, "WATERSHED": "Back Creek" }, "geometry": { "type": "Point", "coordinates": [ 11088195.428318403661251, 3611249.643358228728175 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 1002, "WATERSHED": "Back Creek" }, "geometry": { "type": "Point", "coordinates": [ 11025054.510231826454401, 3597777.98126127012074 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 1003, "WATERSHED": "Carvin Creek" }, "geometry": { "type": "Point", "coordinates": [ 11058512.062181781977415, 3680230.598851832095534 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 1004, "WATERSHED": "Roanoke River above Masons Creek" }, "geometry": { "type": "Point", "coordinates": [ 11012522.582823967561126, 3639462.329001189209521 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 1005, "WATERSHED": "Roanoke River above Masons Creek" }, "geometry": { "type": "Point", "coordinates": [ 11018717.112518716603518, 3637251.921860501170158 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 0, "WATERSHED": null }, "geometry": { "type": "Point", "coordinates": [ 11064369.069298762828112, 3643759.986508474685252 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 0, "WATERSHED": null }, "geometry": { "type": "Point", "coordinates": [ 11031997.086837518960238, 3641956.673518286086619 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 0, "WATERSHED": null }, "geometry": { "type": "Point", "coordinates": [ 11039318.002136372029781, 3643422.669343772809952 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 0, "WATERSHED": null }, "geometry": { "type": "Point", "coordinates": [ 11054564.4308703225106, 3675578.630941065959632 ] } },
+{ "type": "Feature", "properties": { "UNIQUEID": 0, "WATERSHED": null }, "geometry": { "type": "Point", "coordinates": [ 11051263.145793303847313, 3586817.028805482666939 ] } }
+]
+}
